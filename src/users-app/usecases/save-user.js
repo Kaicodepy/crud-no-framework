@@ -49,7 +49,7 @@ const createUser = async(user) => {
     return newUser;
 }
 
-const updatedUser = async(user) => {
+export const updatedUser = async(user) => {
 
 
 
